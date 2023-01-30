@@ -1,0 +1,86 @@
+    ÿÿÿÿ          System.Int32    m_value    
+    ÿÿÿÿ          System.Boolean    m_value  
+    ÿÿÿÿ          System.Int32    m_value    
+    ÿÿÿÿ          main
+    ÿÿÿÿ          =raptor, Version=4.1.0.1, Culture=neutral, PublicKeyToken=null   raptor.Subchart_Kinds    value__        
+    ÿÿÿÿ          =raptor, Version=4.1.0.1, Culture=neutral, PublicKeyToken=null   QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a   
+raptor.Oval   _serialization_version_FP	_text_str_name
+_proximity_head_height
+_head_width_head_heightOrig_head_widthOrig_connector_length
+_x_location
+_y_location
+_Successor _parent	_is_child_is_beforeChild_is_afterChild
+_full_text_height_of_text_char_length_rect_comment
+_created_guid
+_changed_guid               raptor.Component+FootPrint   raptor.Parallelogram   System.Drawing.Rectangle   
+System.Guid
+System.Guid      	      Start   Oval
+   <   Z   <   Z      ´      	    
+          øÿÿÿSystem.Drawing.Rectangle   xywidthheight       –   4   <      
+÷ÿÿÿ
+System.Guid
+   _a_b_c_d_e_f_g_h_i_j_k             6'½Ã¢8D¼eÃYˆÂBQöÿÿÿ÷ÿÿÿ6'½Ã¢8D¼eÃYˆÂBQ   raptor.Component+FootPrint   leftrightheight      Z   Z   ³      raptor.Parallelogram    _prompt	_is_input	_new_line_input_expression_serialization_version_FP	_text_str_name
+_proximity_head_height
+_head_width_head_heightOrig_head_widthOrig_connector_length
+_x_location
+_y_location
+_Successor _parent	_is_child_is_beforeChild_is_afterChild
+_full_text_height_of_text_char_length_rect_comment
+_created_guid
+_changed_guid                  raptor.Component+FootPrint   raptor.Parallelogram   System.Drawing.Rectangle   
+System.Guid
+System.Guid   
+   "Enter Dividend : "   	   
+   dividend   
+Parallelogram
+   <   Z   <   Z      ´   i   	   
+          ðÿÿÿøÿÿÿZ   j   ´   <   
+ïÿÿÿ÷ÿÿÿ5Èˆìˆ“ÕI¯âÅ:rêFîÿÿÿ÷ÿÿÿ
+ÇÆh¶e²F¶Ïñõ‚Ò".      Z   Z   h            "Enter Divisor : "   	       divisor	   
+   <   Z   <   Z      ´   ´   	   
+          èÿÿÿøÿÿÿZ   µ   ´   <   
+çÿÿÿ÷ÿÿÿ&Ø˜cnDûGº¿°¡¬Ñ•æÿÿÿ÷ÿÿÿó~èÕ ÔF¬É˜ÐÅ
+»      Z   Z                     	       "Quotient : " + dividend/divisor	   
+   <   Z   <   Z      ´   ÿ   	   
+          àÿÿÿøÿÿÿZ      ´   <   
+ßÿÿÿ÷ÿÿÿÊ¥¬ñŠÈ’J¾žâqnúÞÿÿÿ÷ÿÿÿÆDSi7`G¹¢Ø ×ƒ      Z   Z   Ò      raptor.Parallelogram    _prompt	_is_input	_new_line_input_expression_serialization_version_FP	_text_str_name
+_proximity_head_height
+_head_width_head_heightOrig_head_widthOrig_connector_length
+_x_location
+_y_location
+_Successor _parent	_is_child_is_beforeChild_is_afterChild
+_full_text_height_of_text_char_length_rect_comment
+_created_guid
+_changed_guid                  raptor.Component+FootPrint   
+raptor.Oval   System.Drawing.Rectangle   
+System.Guid
+System.Guid   	        	$   %   !"Remainder : " + dividend%divisor	   
+   <   Z   <   Z      ´   J  	'   
+          ØÿÿÿøÿÿÿZ   K  ´   <   
+×ÿÿÿ÷ÿÿÿz¦VF?ØD™–ãërÿtËÖÿÿÿ÷ÿÿÿÐh|v¶
+@’q›,µý³$      Z   Z   ‡   '   
+raptor.Oval   _serialization_version_FP	_text_str_name
+_proximity_head_height
+_head_width_head_heightOrig_head_widthOrig_connector_length
+_x_location
+_y_location
+_Successor _parent	_is_child_is_beforeChild_is_afterChild
+_full_text_height_of_text_char_length_rect_comment
+_created_guid
+_changed_guid               raptor.Component+FootPrint   System.Drawing.Rectangle   
+System.Guid
+System.Guid      	+   ,   End	   
+   <   Z   <   Z       ´   •  
+
+          Òÿÿÿøÿÿÿ˜   «  8      
+Ñÿÿÿ÷ÿÿÿÑš„õÎ²dC†âãÐÔäôÐÿÿÿ÷ÿÿÿÑš„õÎ²dC†âãÐÔäô+      -   -   <   
+    ÿÿÿÿ               
+    ÿÿÿÿ          =raptor, Version=4.1.0.1, Culture=neutral, PublicKeyToken=null   raptor.logging_info   _serialization_version_count_user0	_machine0_date0_kind0_user1	_machine1_date1_kind1_user2	_machine2_date2_kind2     
+raptor.logging_info+event_kind   
+raptor.logging_info+event_kind   
+raptor.logging_info+event_kind               SAHOO   SAHOOk`dQ Ûˆûÿÿÿraptor.logging_info+event_kind    value__           SAHOO    SAHOOÉUüÞQ Ûˆøÿÿÿûÿÿÿ   	   SAHOO
+   SAHOO&¡½0R Ûˆõÿÿÿûÿÿÿ   
+    ÿÿÿÿ          System.Boolean    m_value  
+    ÿÿÿÿ          
+System.Guid
+   _a_b_c_d_e_f_g_h_i_j_k             b×Ò¨y]sJœ”æâ®{
