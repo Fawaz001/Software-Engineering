@@ -1,0 +1,226 @@
+    ÿÿÿÿ          System.Int32    m_value    
+    ÿÿÿÿ          System.Boolean    m_value  
+    ÿÿÿÿ          System.Int32    m_value    
+    ÿÿÿÿ          main
+    ÿÿÿÿ          =raptor, Version=4.1.0.1, Culture=neutral, PublicKeyToken=null   raptor.Subchart_Kinds    value__        
+    ÿÿÿÿ          =raptor, Version=4.1.0.1, Culture=neutral, PublicKeyToken=null   QSystem.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a   
+raptor.Oval   _serialization_version_FP	_text_str_name
+_proximity_head_height
+_head_width_head_heightOrig_head_widthOrig_connector_length
+_x_location
+_y_location
+_Successor _parent	_is_child_is_beforeChild_is_afterChild
+_full_text_height_of_text_char_length_rect_comment
+_created_guid
+_changed_guid               raptor.Component+FootPrint   raptor.Parallelogram   System.Drawing.Rectangle   
+System.Guid
+System.Guid      	      Start   Oval
+   -   D   <   Z   
+   
+     	    
+   
+       øÿÿÿSystem.Drawing.Rectangle   xywidthheight       ÷   &   (   
+   
+÷ÿÿÿ
+System.Guid
+   _a_b_c_d_e_f_g_h_i_j_k             /AôSï©DJ¼ˆøÏ‡ðú9öÿÿÿ÷ÿÿÿ/AôSï©DJ¼ˆøÏ‡ðú9   raptor.Component+FootPrint   leftrightheight      ±   ±   â      raptor.Parallelogram    _prompt	_is_input	_new_line_input_expression_serialization_version_FP	_text_str_name
+_proximity_head_height
+_head_width_head_heightOrig_head_widthOrig_connector_length
+_x_location
+_y_location
+_Successor _parent	_is_child_is_beforeChild_is_afterChild
+_full_text_height_of_text_char_length_rect_comment
+_created_guid
+_changed_guid                  raptor.Component+FootPrint   raptor.Rectangle   System.Drawing.Rectangle   
+System.Guid
+System.Guid   
+   "Enter a String : "   	   
+   input   
+Parallelogram
+   -   D   <   Z   
+   
+  N   	   
+   
+       ðÿÿÿøÿÿÿÇ   O   ˆ   '   
+ïÿÿÿ÷ÿÿÿ2ô•õ¬‚#A³Òã4Àë+îÿÿÿ÷ÿÿÿ‘‘hq®K˜
+È/›Ï      ±   ±   ª     raptor.Rectangle   _serialization_version_FP	_text_str_name
+_proximity_head_height
+_head_width_head_heightOrig_head_widthOrig_connector_length
+_x_location
+_y_location
+_Successor _parent	_is_child_is_beforeChild_is_afterChild
+_full_text_height_of_text_char_length_rect_comment
+_created_guid
+_changed_guid_kind               raptor.Component+FootPrint   raptor.Rectangle   System.Drawing.Rectangle   
+System.Guid
+System.Guidraptor.Rectangle+Kind_Of         	      len:=Length_Of(input)   	Rectangle
+   -   D   <   Z   
+   
+  †   	   
+   
+       éÿÿÿøÿÿÿÇ   ‡   ˆ   '   
+èÿÿÿ÷ÿÿÿ£—2e÷*ŸHˆaÔÓ|‰júçÿÿÿ÷ÿÿÿÅKYeÖ/,HœqmgH6÷Âæÿÿÿraptor.Rectangle+Kind_Of    value__              ±   ±   r           	      i:=len	   
+   -   D   <   Z   
+   
+  ¾   	   
+   
+       áÿÿÿøÿÿÿõ   Î   -   
+   
+àÿÿÿ÷ÿÿÿ}›¹q…‰-L°K!á0ÛK`ßÿÿÿ÷ÿÿÿŒ¸¬ÖiÆB‘ ‡Cµ(eÞÿÿÿæÿÿÿ          ±   ±   :     raptor.Rectangle   _serialization_version_FP	_text_str_name
+_proximity_head_height
+_head_width_head_heightOrig_head_widthOrig_connector_length
+_x_location
+_y_location
+_Successor _parent	_is_child_is_beforeChild_is_afterChild
+_full_text_height_of_text_char_length_rect_comment
+_created_guid
+_changed_guid_kind               raptor.Component+FootPrint   
+raptor.Loop   System.Drawing.Rectangle   
+System.Guid
+System.Guidraptor.Rectangle+Kind_Of         	#   $   
+reverse:=""	   
+   -   D   <   Z   
+   
+  ö   	&   
+   
+       ÙÿÿÿøÿÿÿØ   ÷   f   '   
+Øÿÿÿ÷ÿÿÿËßã—L½ÐAº„{\ªÕ×ÿÿÿ÷ÿÿÿ9‚UA•zFƒa‘°Ô›˜Öÿÿÿæÿÿÿ    #      ±   ±     &   
+raptor.Loop'   
+_before_Child_after_Child _bottom_min_before_bottom_before_bottom
+_after_bottom _x_left _y_left_x_right_y_right_left_connector_y_right_connector_y_line_height_LP_is_compressed_serialization_version_FP	_text_str_name
+_proximity_head_height
+_head_width_head_heightOrig_head_widthOrig_connector_length
+_x_location
+_y_location
+_Successor _parent	_is_child_is_beforeChild_is_afterChild
+_full_text_height_of_text_char_length_rect_comment
+_created_guid
+_changed_guid                           raptor.Rectangle   raptor.Component+FootPrint   raptor.IF_Control   System.Drawing.Rectangle   
+System.Guid
+System.Guid   
+	+       q  q  $  ®       h                  ,   Loop    	-   .   i<=0	,   
+   -   D   <   Z   
+   
+  .  	0   
+   
+       Ïÿÿÿøÿÿÿé   >  D   
+   
+Îÿÿÿ÷ÿÿÿ
+Hæ±	ÖH¿ù()»Ö~ôÍÿÿÿ÷ÿÿÿ·J¤Àë|KŠìvØò×—+   raptor.Rectangle   _serialization_version_FP	_text_str_name
+_proximity_head_height
+_head_width_head_heightOrig_head_widthOrig_connector_length
+_x_location
+_y_location
+_Successor _parent	_is_child_is_beforeChild_is_afterChild
+_full_text_height_of_text_char_length_rect_comment
+_created_guid
+_changed_guid_kind               raptor.Component+FootPrint   raptor.Rectangle   
+raptor.Loop   System.Drawing.Rectangle   
+System.Guid
+System.Guidraptor.Rectangle+Kind_Of         	4   5   reverse:=reverse + input[i]	   
+   -   D   <   Z   
+   
+  ´  	7   	&    
+       ÇÿÿÿøÿÿÿÇ   µ  ˆ   '   
+Æÿÿÿ÷ÿÿÿ’H"G°mA[âì³Åÿÿÿ÷ÿÿÿ"­sr6v§F÷VÊ„&ãýÄÿÿÿæÿÿÿ    -      ±   ±   Ê  0   raptor.IF_Control$   
+_left_Child_right_Child _bottom
+_min_bottom _x_left _y_left_x_right_y_right_left_connector_y_right_connector_y_line_height_is_compressed_serialization_version_FP	_text_str_name
+_proximity_head_height
+_head_width_head_heightOrig_head_widthOrig_connector_length
+_x_location
+_y_location
+_Successor _parent	_is_child_is_beforeChild_is_afterChild
+_full_text_height_of_text_char_length_rect_comment
+_created_guid
+_changed_guid                         raptor.Parallelogram   raptor.Parallelogram   raptor.Component+FootPrint   
+raptor.Oval   System.Drawing.Rectangle   
+System.Guid
+System.Guid   	=   	>   À  ˆ  ¥   [  q  [  ˆ  ˆ  -       	?   @   reverse = inputA   
+IF_Control
+   -   D   <   Z   
+   
+  E  	B   
+   
+       ½ÿÿÿøÿÿÿâ   N  R      
+¼ÿÿÿ÷ÿÿÿ)S˜g1Ê"G§šz}¤]DN»ÿÿÿ÷ÿÿÿYï
+¬&ßÄJ‰È
+Æ÷¯4      ;   ;   e   7   raptor.Rectangle   _serialization_version_FP	_text_str_name
+_proximity_head_height
+_head_width_head_heightOrig_head_widthOrig_connector_length
+_x_location
+_y_location
+_Successor _parent	_is_child_is_beforeChild_is_afterChild
+_full_text_height_of_text_char_length_rect_comment
+_created_guid
+_changed_guid_kind               raptor.Component+FootPrint   
+raptor.Loop   System.Drawing.Rectangle   
+System.Guid
+System.Guidraptor.Rectangle+Kind_Of         	F   G   i:=i - 1	   
+   -   D   <   Z       
+  ì  
+	&    
+       ¶ÿÿÿøÿÿÿó   ü  1   
+   
+µÿÿÿ÷ÿÿÿîŠ±&0ßá@­Â5ap ´ÿÿÿ÷ÿÿÿiîBh¿ÖœL„Ì0er4n#³ÿÿÿæÿÿÿ    =   raptor.Parallelogram    _prompt	_is_input	_new_line_input_expression_serialization_version_FP	_text_str_name
+_proximity_head_height
+_head_width_head_heightOrig_head_widthOrig_connector_length
+_x_location
+_y_location
+_Successor _parent	_is_child_is_beforeChild_is_afterChild
+_full_text_height_of_text_char_length_rect_comment
+_created_guid
+_changed_guid                  raptor.Component+FootPrint   raptor.IF_Control   System.Drawing.Rectangle   
+System.Guid
+System.Guid   N         	O   P   input + " is a PALINDROME"	   
+   -   D   <   Z       ¥   ˆ  
+	0     
+       ­ÿÿÿøÿÿÿa   ‰  ˆ   '   
+¬ÿÿÿ÷ÿÿÿ©F;©uŒy@¦g…W³
+Á«ÿÿÿ÷ÿÿÿ2Ô†í¤´6M°<€aG¶½e>   raptor.Parallelogram    _prompt	_is_input	_new_line_input_expression_serialization_version_FP	_text_str_name
+_proximity_head_height
+_head_width_head_heightOrig_head_widthOrig_connector_length
+_x_location
+_y_location
+_Successor _parent	_is_child_is_beforeChild_is_afterChild
+_full_text_height_of_text_char_length_rect_comment
+_created_guid
+_changed_guid                  raptor.Component+FootPrint   raptor.IF_Control   System.Drawing.Rectangle   
+System.Guid
+System.Guid   	N        	W   X   input + " is NOT a PALINDROME"	   
+   -   D   <   Z       q  ˆ  
+	0     
+       ¥ÿÿÿøÿÿÿ-  ‰  ˆ   '   
+¤ÿÿÿ÷ÿÿÿ|›×kWˆÓAšl
+Ç=úM£ÿÿÿ÷ÿÿÿÌš;â+[¹Mˆò´ÊÞ¶??      ±   ±   ³   B   
+raptor.Oval   _serialization_version_FP	_text_str_name
+_proximity_head_height
+_head_width_head_heightOrig_head_widthOrig_connector_length
+_x_location
+_y_location
+_Successor _parent	_is_child_is_beforeChild_is_afterChild
+_full_text_height_of_text_char_length_rect_comment
+_created_guid
+_changed_guid               raptor.Component+FootPrint   System.Drawing.Rectangle   
+System.Guid
+System.Guid      	^   _   End	   
+   -   D   <   Z       
+  Ë  
+
+   
+       Ÿÿÿÿøÿÿÿù   Û  %   
+   
+žÿÿÿ÷ÿÿÿª»4†SëLŸƒC¤<0ÿÿÿ÷ÿÿÿª»4†SëLŸƒC¤<0F      "   "   -   O      D   D   -   W      D   D   -   ^      "   "   -   
+    ÿÿÿÿ               
+    ÿÿÿÿ          =raptor, Version=4.1.0.1, Culture=neutral, PublicKeyToken=null   raptor.logging_info   _serialization_version_count_user0	_machine0_date0_kind0_user1	_machine1_date1_kind1_user2	_machine2_date2_kind2_user3	_machine3_date3_kind3_user4	_machine4_date4_kind4_user5	_machine5_date5_kind5        
+raptor.logging_info+event_kind   
+raptor.logging_info+event_kind   
+raptor.logging_info+event_kind   
+raptor.logging_info+event_kind   
+raptor.logging_info+event_kind   
+raptor.logging_info+event_kind               SAHOO   SAHOO&¡½0R Ûˆûÿÿÿraptor.logging_info+event_kind    value__           SAHOO    SAHOOð/ÊsR Ûˆøÿÿÿûÿÿÿ   	   SAHOO
+   SAHOOŒ¥¹îR Ûˆõÿÿÿûÿÿÿ      SAHOO
+   SAHOO'iS Ûˆòÿÿÿûÿÿÿ      SAHOO   SAHOOë¯ƒÔS Ûˆïÿÿÿûÿÿÿ      SAHOO   SAHOO(OYT Ûˆìÿÿÿûÿÿÿ   
+    ÿÿÿÿ          System.Boolean    m_value  
+    ÿÿÿÿ          
+System.Guid
+   _a_b_c_d_e_f_g_h_i_j_k             ÿÀÅsñGš4é,„|2
